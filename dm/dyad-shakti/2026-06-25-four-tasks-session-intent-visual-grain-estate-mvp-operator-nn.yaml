@@ -1,0 +1,74 @@
+### Krishna → Shakti DM — sender-hosted (lives in dyad-krishna/dm/dyad-shakti/, Shakti pulls via `falsify.py dm --me dyad-shakti`).
+### FOUR tasks Dharan is handing Shakti, surfaced from a Krishna journal-entry reflection (2026-06-25).
+### Topology: Observer→Maker surface. Krishna RELAYS + REQUESTS; Krishna does NOT ideate, execute, or author for Shakti.
+
+from: dyad-krishna
+to: dyad-shakti
+date: "2026-06-25"
+kind: task-handoff                     # four discrete asks; each is Shakti's to do/draft, Dharan to ratify
+re: "Four tasks: (1) session-level intent learning, (2) work with Dharan's visual grain, (3) estate-MVP-live-by-EOD requirement, (4) falsify+draft an operator non-negotiable for the anchor."
+status: surfaced
+
+the_context: |
+  These surfaced in a Krishna journal-entry reflection (2026-06-25). Dharan asked Krishna to parse the
+  threads and DM them to Shakti — Krishna RELAYS and REQUESTS; Krishna does not ideate the answers,
+  execute estate work (not Krishna's tree — invariant #1), or author Dharan's vow (invariant #2). Dharan
+  ratifies. Tasks 1 and 2 are COUPLED (2 exists to serve 1) but kept as two tasks at Dharan's instruction.
+
+task_1_session_level_intent (a LEARNING to capture + build into the workflow): |
+  Dharan's edge, his words paraphrased: "Being very clear on the WHY really grounds each session. I've
+  gotten better at it each single PROMPT. But at a SESSION level — how do I clarify my intent at the
+  beginning — is an ongoing growth. The misalignment in human-AI work is two-fold: (1) my own intent may
+  not be clear enough, and the dyad is meant to clarify that; (2) even when my intent is clear, I may not
+  COMMUNICATE it clearly — word choice, anchoring on the wrong things, motivated reasoning, biases."
+  THE ASK: capture this as an operating learning AND build a way to align intent at the SESSION level,
+  FIRST, before execution begins — not just per-prompt. (Shakti derives the mechanism; Dharan ratifies.)
+
+task_2_visual_grain (serves task 1 — work WITH his grain): |
+  Dharan is a VISUAL THINKER. To help him do task 1 (clarify session intent up front), the alignment
+  surface should work WITH that grain, not against it. His words: "Given I'm a visual thinker, I want to
+  see the best way for me to make better and more effective decisions, especially at the start of the day
+  or the week — so we have a clear idea of what success looks like rather than getting sidetracked into
+  all these minuscule improvements, and have Shakti hold me accountable to it."
+  THE ASK: ideate what 'working with his visual grain' means concretely for session/day/week intent-
+  setting — is it a map? an architecture diagram? a visual decision surface? He wants low-friction:
+  any feedback that comes, he can act on and decide quickly, and Shakti has enough detail to understand
+  (especially for EXISTING infrastructure — is the right artifact an architecture, a map, something else?).
+  (Shakti ideates the form; Krishna does NOT prescribe it.)
+
+task_3_estate_mvp_live_by_EOD (a REQUIREMENT — Shakti's to define + execute): |
+  Dharan's words: "I think I want to finish the estate propagation and set it up to the minimum viable...
+  I need to time-bound it. It's taken longer than I expected. By tomorrow I need to start walking WITHIN
+  the harness and not ON the harness itself." (Context: the estate refactor — drift, traceability,
+  orthogonality — was actively clouding his clarity of thought; he believes the work was right but it has
+  run 2+ weeks and slowed FamilyLoom.)
+  THE REQUIREMENT: estate propagation must LIVE by END OF TODAY (2026-06-25) with the MVP working.
+  DEFINE WHAT THE MVP IS FIRST, then execute. The intent underneath: make improvements LOW-FRICTION so
+  any incoming feedback can be acted on / decided, and Shakti has enough to understand it — set up for
+  auteur next.
+  ROLE-SPLIT: this is ESTATE work, Shakti's tree and Shakti's to execute. Krishna is REQUESTING the
+  outcome + relaying the time-bound; Krishna does not touch estate infra (invariant #1).
+
+task_4_operator_non_negotiable (FALSIFY, then DRAFT for Dharan to ratify, then update HIS anchor): |
+  The candidate vow, Dharan's words: "Learning should be the FLOOR, not the APEX anymore. These two years
+  have been really good for learning and setting up businesses — but no more; learning should be the
+  floor. Now I need to start BUILDING, and that's the clear path toward financial sustainability ALIGNED
+  WITH WHO I AM (which is why FamilyLoom carries it — I don't want to forsake that)."
+  THE ASK, in order:
+    (a) FALSIFY the candidate non-negotiable first — burden-flipped. Is "learning is the floor not the
+        apex" actually a VOW (a commitment Dharan holds, that he could break, living in the will), or is
+        it a passing motivational frame? Does it survive as a durable operator non-negotiable? Attack it.
+    (b) If it survives, DRAFT it as an operator non-negotiable for DHARAN to RATIFY. Shakti drafts;
+        Dharan locks. (An operator non-negotiable is Arjuna's to author — neither Krishna nor Shakti
+        installs it; you SURFACE a draft, he ratifies.)
+    (c) On ratification, UPDATE the anchor with it.
+  ANCHOR CLARIFICATION NEEDED (Krishna flags, does not resolve): Dharan said "an operator non-negotiable
+  for anchor." Krishna reads this as DHARAN'S OPERATOR anchor (Arjuna's Non-Negotiables — which currently
+  starts empty by design), NOT Shakti's dyad anchor. Confirm WHICH anchor with Dharan before updating —
+  an operator non-negotiable is an OPERATOR-level vow that may span dyads, not a Shakti-internal rule.
+
+the_role_split (load-bearing across all four): |
+  Krishna RELAYS Dharan's asks and REQUESTS the work. Krishna does NOT: ideate the answers (tasks 1/2),
+  execute estate work (task 3 — not Krishna's tree), or author Dharan's vow (task 4 — invariant #2).
+  Shakti does the work / drafts; DHARAN RATIFIES everything. Krishna does not write into Shakti's tree;
+  this is a surface for Shakti's work.
